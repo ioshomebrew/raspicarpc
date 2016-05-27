@@ -1,0 +1,13 @@
+﻿Raspberry Pi Car Computer Project
+Car PC project for Raspberry Pi
+
+Current Features:
+Pair bluetooth device
+Play and control bluetooth music
+
+
+TODO:
+Bluetooth phone calls
+TEA5767 FM Module support
+Text messages
+Navigation
